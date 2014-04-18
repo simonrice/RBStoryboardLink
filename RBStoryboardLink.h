@@ -24,6 +24,9 @@
 
 #import <UIKit/UIKit.h>
 
+#import "RBStoryboardLinkSource.h"
+#import "UIViewController+RBStoryboardLink.h"
+
 /**
  * Basically, what this class does is create a linked scene, put it in a
  * containter view controller, and copy all the linked scene's properties into
